@@ -15,7 +15,7 @@ app.get("/",function(req,res){
     }
     
      var day = today.toLocaleDateString("en-us",object);
-    res.render('list', {dayofweek: day, NewListItem: items });
+    res.render('index', {dayofweek: day, NewListItem: items });
     
 });
 app.post("/",function(req,res){
