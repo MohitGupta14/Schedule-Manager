@@ -4,4 +4,5 @@
 •Simplifies event creation and management with a 3-step process: create an event, mark todos as completed.
 
 
-![image](https://github.com/MohitGupta14/Schedule-Manager/assets/81846020/055d1379-edd8-4df3-b064-6d0dd5deba62)
+![image](https://github.com/MohitGupta14/Schedule-Manager/assets/81846020/844b7fd0-b56f-4668-bd3d-c34e1f810906)
+
